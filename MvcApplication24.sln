@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication24", "MvcApplication24\MvcApplication24.csproj", "{DE32C1D5-63FF-45F0-B786-000A13E8B664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE32C1D5-63FF-45F0-B786-000A13E8B664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE32C1D5-63FF-45F0-B786-000A13E8B664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE32C1D5-63FF-45F0-B786-000A13E8B664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE32C1D5-63FF-45F0-B786-000A13E8B664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
